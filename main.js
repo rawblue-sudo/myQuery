@@ -3,7 +3,7 @@ var $ = (function () {
 	'use strict';
 
 	/**
-	 * Create the constructor
+	 * Create constructor
 	 * @param {String} selector The selector to use
 	 */
 	var Constructor = function (selector) {
